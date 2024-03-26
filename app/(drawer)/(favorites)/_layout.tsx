@@ -12,8 +12,8 @@ const Layout = () => {
         },
         headerTintColor: "#fff",
     }}>
-        <Stack.Screen name="index" options={{
-            title: "Movie Seeker",
+        <Stack.Screen name="favorites" options={{
+            title: "My Favorites",
             headerLeft: () => <DrawerToggleButton tintColor='#fff'/>,
         }}></Stack.Screen>
 
