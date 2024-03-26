@@ -37,6 +37,14 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.anonymous.movieseeker"
-    }
+    },
+    
+      "expo": {
+        "experiments": {
+          "baseUrl": "/movieseeker"
+        }
+      }
+    
+    
   }
 }
